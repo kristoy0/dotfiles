@@ -16,7 +16,8 @@
 
 In .config/fish/config.fish add:
 
-```if status --is-interactive
+```
+if status --is-interactive
     eval sh $HOME/.config/base16-dark.sh
 end
 ```
