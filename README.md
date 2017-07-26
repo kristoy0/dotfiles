@@ -1,5 +1,10 @@
 # Dotfiles
 
+**WM:** i3
+**OS:** Ubuntu 16.04.2 LTS
+**Terminal:** Termite
+**Shell:** Fish 
+
 ## Necessary stuff:
 1. termite
 2. polybar
